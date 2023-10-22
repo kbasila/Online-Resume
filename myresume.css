@@ -1,0 +1,28 @@
+body{
+  background-image: url("blue.jpeg");
+  background-size: cover;
+} 
+
+
+
+mark{
+  background-color: skyblue;
+}
+
+hr{
+  height: 5px;
+  width: 250px;
+  background-color: aqua;
+}
+
+text{
+  font-size: 20px;
+  text-align: center;
+}
+
+
+
+
+
+
+
